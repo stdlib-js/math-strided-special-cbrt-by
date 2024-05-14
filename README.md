@@ -262,6 +262,12 @@ console.log( y );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-strided/special/cbrt`][@stdlib/math/strided/special/cbrt]</span><span class="delimiter">: </span><span class="description">compute the cube root of each element in a strided array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -343,6 +349,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [@stdlib/math/base/special/cbrt]: https://github.com/stdlib-js/math-base-special-cbrt
+
+<!-- <related-links> -->
+
+[@stdlib/math/strided/special/cbrt]: https://github.com/stdlib-js/math-strided-special-cbrt
+
+<!-- </related-links> -->
 
 </section>
 
